@@ -1,16 +1,15 @@
 ## Hi there 👋
+<h1 align="center">
+  <img src="https://i.imgur.com/nKcU7LX.gif" width="60" />
+  <span style="color:#00FF41;">WELCOME TO THE MATRIX</span>
+  <img src="https://i.imgur.com/nKcU7LX.gif" width="60" />
+</h1>
 
-<!--
-**Rushi676/Rushi676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/8yZpH5T.gif" width="700"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center"><b>⚡ CYBERSECURITY | ETHICAL HACKING | DIGITAL DEFENSE ⚡</b></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
