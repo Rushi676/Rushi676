@@ -73,3 +73,7 @@
 
 <h3 align="center">🛡️ Stay Safe | Stay Ethical | Keep Hacking 🛡️</h3>
 
+- **[repo-name](https://github.com/yourusername/repo-name)** — Short description (e.g. reconnaissance toolkit / privilege escalation scanner).
+  Tags: [pentest][automation][bugbounty] — Status: In Progress / Complete.
+
+
