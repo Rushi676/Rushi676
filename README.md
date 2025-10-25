@@ -21,11 +21,10 @@
 ---
 
 ### 🧪 Featured Projects
-
-🚀 **[`ssh-checker`](https://github.com/yourusername/ssh-checker)** — Multi-threaded SSH credential checker and audit tool  
+  
 🧩 **[`user-data-inspector`](https://github.com/yourusername/user-data-inspector)** — Security analyzer for local user data & browser credentials  
 🌐 **[`dns-enumerator`](https://github.com/yourusername/dns-enumerator)** — Fast DNS record enumerator for reconnaissance  
-🛰 **[`ssh-ops-manager`](https://github.com/yourusername/ssh-ops-manager)** — Ethical SSH operations manager for secure automation  
+  
 
 > 🧠 Each project is focused on **security automation**, **ethical analysis**, and **defensive engineering** — not malicious use.
 
