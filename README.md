@@ -1,7 +1,4 @@
-<h1 align="center">👾 Welcome to My Cybersecurity Lab 🧠</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi676&label=Profile%20views&color=0e75b6&style=flat" alt="rushi676" /> </p>
-
+<h1 align="center">👾 Welcome to Cybersecurity World 🧠</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
