@@ -9,24 +9,11 @@
 ---
 
 ### 🕵️‍♂️ About Me
-- 🔐 Passionate **Cybersecurity Professional** focused on ethical hacking, penetration testing, and blue team research.  
+- 🔐 Passionate **Cybersecurity Professional** focused on ethical hacking, penetration testing, and Red team research.  
 - 💻 Skilled in **Network Security**, **Application Security**, and **Incident Response**.  
 - ⚙️ Experienced with tools like `Burp Suite`, `Metasploit`, `Wireshark`, `Nmap`, `Nessus`, and `OSINT Frameworks`.  
 - 🧩 Love building automation scripts and custom tools for **security auditing** and **vulnerability analysis**.  
 - 🌍 Always learning, testing, and securing systems — one packet at a time.
-
----
-
-### 🧰 Tech Arsenal
-
-| Category | Tools / Skills |
-|-----------|----------------|
-| **Pentesting** | Nmap, Metasploit, Burp Suite, SQLmap, Hydra, John the Ripper |
-| **Digital Forensics** | Autopsy, Volatility, FTK Imager |
-| **Blue Team** | SIEM (Splunk, ELK), Wireshark, Zeek, Suricata |
-| **Scripting / Automation** | Python, Bash, PowerShell |
-| **Cloud / Infra Security** | Docker, AWS, Azure Security |
-| **Reverse Engineering** | Ghidra, JADX, Genymotion, Frida |
 
 ---
 
@@ -41,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
 ### ⚡ Fun Facts
 - 🕶 “Hackers are not criminals — we’re explorers of the digital unknown.”
 - 🎯 Motto: *“Think. Exploit. Patch. Repeat.”*
@@ -59,11 +37,14 @@
 
 ### 💬 Connect With Me
 
-<p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ---
 
@@ -73,7 +54,6 @@
 
 <h3 align="center">🛡️ Stay Safe | Stay Ethical | Keep Hacking 🛡️</h3>
 
-- **[repo-name](https://github.com/yourusername/repo-name)** — Short description (e.g. reconnaissance toolkit / privilege escalation scanner).
-  Tags: [pentest][automation][bugbounty] — Status: In Progress / Complete.
+
 
 
