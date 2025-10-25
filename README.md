@@ -1,7 +1,10 @@
-<h1 align="center">👾 Welcome to Cybersecurity World 🧠</h1>
+<h1 align="center">THE WORLD OF CYBERSECURITY </h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="35" /
   <b>Digital Defense | Ethical Hacking | Threat Hunting | Security Automation</b>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
