@@ -24,6 +24,7 @@
   
 🧩 **[`user-data-inspector`](https://github.com/Rushi676/user-data-inspector)** — Security analyzer for local user data & browser credentials  
 🌐 **[`dns-enumerator`](https://github.com/Rushi676/DNS-Subdomain_Enum)** — Fast DNS record enumerator for reconnaissance
+
 📱 **[`DIVA-Android-Pentesting`](https://github.com/Rushi676/Diva-App---Android-Pentesting)** — Android application penetration testing using DIVA with static analysis  
 🌐 **[`HackThisSite-Basic-Challenges-Pentest`](https://github.com/Rushi676/HackThisSite-Penetration-Testing-Report)** — Web penetration testing report covering common vulnerabilities from HackThisSite labs
   
