@@ -23,7 +23,9 @@
 ### 🧪 Featured Projects
   
 🧩 **[`user-data-inspector`](https://github.com/yourusername/user-data-inspector)** — Security analyzer for local user data & browser credentials  
-🌐 **[`dns-enumerator`](https://github.com/yourusername/dns-enumerator)** — Fast DNS record enumerator for reconnaissance  
+🌐 **[`dns-enumerator`](https://github.com/yourusername/dns-enumerator)** — Fast DNS record enumerator for reconnaissance 
+📱 **[`DIVA-Android-Pentesting`](https://github.com/yourusername/DIVA-Android-Pentesting)** — Android application penetration testing using DIVA with static and dynamic analysis  
+🌐 **[`HackThisSite-Basic-Challenges-Pentest`](https://github.com/yourusername/HackThisSite-Basic-Challenges-Pentest)** — Web penetration testing report covering common vulnerabilities from HackThisSite labs
   
 
 > 🧠 Each project is focused on **security automation**, **ethical analysis**, and **defensive engineering** — not malicious use.
