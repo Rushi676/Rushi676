@@ -8,6 +8,8 @@
   <b>Digital Defense | Ethical Hacking | Threat Hunting | Security Automation</b>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
+### 🏅 TryHackMe Badge  
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970)
 
 ---
 
@@ -17,8 +19,6 @@
 - ⚙️ Experienced with tools like `Burp Suite`, `Metasploit`, `Wireshark`, `Nmap`, `Nessus`, and `OSINT Frameworks`.  
 - 🧩 Love building automation scripts and custom tools for **security auditing** and **vulnerability analysis**.  
 - 🌍 Always learning, testing, and securing systems — one packet at a time.
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" style='border:none;'></iframe>
-
 
 ---
 
