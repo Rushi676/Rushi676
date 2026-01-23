@@ -11,7 +11,7 @@
 ### 🏅 TryHackMe Badge
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Rockstar777">
+  <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970">
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
   </a>
 </p>
