@@ -8,8 +8,14 @@
   <b>Digital Defense | Ethical Hacking | Threat Hunting | Security Automation</b>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
-### 🏅 TryHackMe Badge  
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970)
+### 🏅 TryHackMe Badge
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Rushi676">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
+  </a>
+</p>
+
 
 ---
 
