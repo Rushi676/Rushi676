@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Rockstar777">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970&format=png" />
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
   </a>
 </p>
 
