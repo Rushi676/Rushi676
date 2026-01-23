@@ -9,14 +9,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
 
----
 
-### 🏅 TryHackMe Badge
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Rockstar777.png" alt="Your Image Badge" />
-  </a>
-</p>
 
 ---
 
@@ -26,6 +19,16 @@
 - ⚙️ Experienced with tools like `Burp Suite`, `Metasploit`, `Wireshark`, `Nmap`, `Nessus`, and `OSINT Frameworks`.  
 - 🧩 Love building automation scripts and custom tools for **security auditing** and **vulnerability analysis**.  
 - 🌍 Always learning, testing, and securing systems — one packet at a time.
+
+
+---
+
+### 🏅 TryHackMe Badge
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rockstar777.png" alt="Your Image Badge" />
+  </a>
+</p>
 
 ---
 
