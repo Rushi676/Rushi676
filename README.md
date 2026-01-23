@@ -8,13 +8,13 @@
   <b>Digital Defense | Ethical Hacking | Threat Hunting | Security Automation</b>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
+---
 ### 🏅 TryHackMe Badge
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Rockstar777.png" alt="Your Image Badge" />
   </a>
 </p>
-
 
 ---
 
