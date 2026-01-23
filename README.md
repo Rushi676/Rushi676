@@ -8,6 +8,7 @@
   <b>Digital Defense | Ethical Hacking | Threat Hunting | Security Automation</b>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
+
 ---
 
 ### 🏅 TryHackMe Badge
