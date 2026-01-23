@@ -11,8 +11,7 @@
 ### 🏅 TryHackMe Badge
 
 <p align="center">
-  <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rockstar777.png" alt="Your Image Badge" />
   </a>
 </p>
 
