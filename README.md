@@ -11,10 +11,11 @@
 ### 🏅 TryHackMe Badge
 
 <p align="center">
-  <a href="[https://tryhackme.com/p/Rushi676](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" style='border:none;)">
-    <img src="[https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" style='border:none;)" />
+  <a href="https://tryhackme.com/p/Rockstar777">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
   </a>
 </p>
+
 
 ---
 
