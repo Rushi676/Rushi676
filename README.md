@@ -9,6 +9,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="35" />
 </p>
 ---
+
 ### 🏅 TryHackMe Badge
 
 <p align="center">
