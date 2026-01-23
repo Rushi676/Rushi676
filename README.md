@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Rushi676">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" />
+    <img src="[https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4319970" style='border:none;)" />
   </a>
 </p>
 
